@@ -8,7 +8,7 @@ Issue tracker for a DMS web application, currently in private beta. ( DMS = Docu
  - **personal menu**, menu can be customized according to your login;
  - **search**, Search can contain tags and text, Eg. [machine-learning] tensorflow;
  - **combined tag search**, search can happen between multiple tags Eg. [course] [machine-learning] to find all posts labeled with *machine-learning* and *course*;
- - **functionality tags**, A tag can contain custom input elemens, eg. when adding a tag: client-work. It is possible to define 2 extra input fields: Client Name, Description:TextArea and a  chronometer. So the time can be measured, a description added  and a client name as extra info. You can also have HTML and much more. These tags CAN be hidden from the overview;
+ - **functionality tags**, A tag can contain custom input elemens, eg. when adding a tag: *client-work*. It is possible to define 2 extra input fields: *Client Name:Text*, *Description:TextArea* and a  *chronometer* . You can also have HTML and much more. These tags CAN be hidden from the overview to avoid clutter;
  - **tag inheritance**, it is possible to inherit a tag, reducing tag clutter. Eg. Cloud-Platform > Azure -> Azure-VM . Cloud-Platform > Google-Cloud-Platform, Cloud > AWS > SES;
  - **Multiple domains**, one instance can be spanned over multiple domains with different contents; 
 

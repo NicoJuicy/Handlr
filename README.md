@@ -11,8 +11,10 @@ Issue tracker for a DMS web application, currently in private beta. ( DMS = Docu
  - **functionality tags**, A tag can contain custom input elemens, eg. when adding a tag: *client-work*. It is possible to define 2 extra input fields: *Client Name:Text*, *Description:TextArea* and a  *chronometer* . You can also have HTML and much more. These tags CAN be hidden from the overview to avoid clutter;
  - **tag inheritance**, it is possible to inherit a tag, reducing tag clutter. Eg. Cloud-Platform > Azure -> Azure-VM . Cloud-Platform > Google-Cloud-Platform, Cloud > AWS > SES;
  - **multiple domains**, one instance can be spanned over multiple domains with different contents; 
-
+ - **different roles**, admins have super powers;
+ 
 ## TODO
+ - **Sticky**, Make posts a stick in general overview or in a tag. Make it extra visible ( admins only);
  - **payment options**, Unique content can be added to a paywall. On tag and post basis. Donations are also possible;
  - **payout by commission**, to reward unique content authors;
  - **course navigation**, navigate through multiple posts from an author. On a domain basis or defined by the submitted;

@@ -13,7 +13,7 @@ Issue tracker for a DMS web application, currently in private beta. ( DMS = Docu
  - **multiple domains**, one instance can be spanned over multiple domains with different contents; 
 
 ## TODO
- - **payment Options**, Unique content can be added to a paywall. On tag and post basis. Donations are also possible;
+ - **payment options**, Unique content can be added to a paywall. On tag and post basis. Donations are also possible;
  - **course navigation**, navigate through multiple posts from an author. On a domain basis or defined by the submitted;
  - **url manipulation**, you can add a affliate url for amazon urls. Override it by default or only when it's absent;
  - **API for auto-submit**, eg. reading in newsletters;

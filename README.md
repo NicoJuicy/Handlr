@@ -1,4 +1,4 @@
-# Tagly
+# Tagly ( [demo](http://tagly.azurewebsites.net/) )
 Issue tracker for a DMS web application, currently in private beta. ( DMS = Document Management System)
 
 ## Features 
@@ -19,6 +19,6 @@ Issue tracker for a DMS web application, currently in private beta. ( DMS = Docu
  - **API for auto-submit**, eg. reading in newsletters;
  - **RSS subscription**, tags can be subscribed through RSS;
 
-Public available on : http://tagly.azurewebsites.net/
+Demo available on:  http://tagly.azurewebsites.net/
 
-![Explainer Screenshot](/tagly-screenshot.png)
+![Interface screenshot](/tagly-screenshot.png)

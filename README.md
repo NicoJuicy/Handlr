@@ -23,6 +23,7 @@ Issue tracker for a DMS web application, currently in private beta. ( DMS = Docu
  - **API for auto-submit**, eg. reading in newsletters;
  - **RSS subscription**, tags can be subscribed through RSS;
  - **ghosting**, hide some users if they are annonying / irrelevant;
+ - **customize layout**, make the site suited to your organisation / mission;
 
 Demo available on:  http://tagly.azurewebsites.net/
 

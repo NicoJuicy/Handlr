@@ -4,6 +4,7 @@ Issue tracker for a DMS web application, currently in private beta. ( DMS = Docu
 ## Features 
 
  - **easy UI**, Reddit / HN like interface;
+ - **voting**, vote on good stories. See your post go trending;
  - **tags**, label a post with multiple tags, so you can find it later;
  - **personal menu**, menu can be customized according to your login;
  - **search**, Search can contain tags and text, Eg. [machine-learning] tensorflow;
@@ -21,6 +22,7 @@ Issue tracker for a DMS web application, currently in private beta. ( DMS = Docu
  - **url manipulation**, you can add a affliate url for amazon urls. Override it by default or only when it's absent;
  - **API for auto-submit**, eg. reading in newsletters;
  - **RSS subscription**, tags can be subscribed through RSS;
+ - **ghosting**, hide some users if they are annonying / irrelevant;
 
 Demo available on:  http://tagly.azurewebsites.net/
 

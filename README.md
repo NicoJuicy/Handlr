@@ -18,7 +18,7 @@ Issue tracker for a DMS web application, currently in private beta. ( DMS = Docu
  - **Sticky**, Make posts a stick in general overview or in a tag. Make it extra visible ( admins only);
  - **payment options**, Unique content can be added to a paywall. On tag and post basis. Donations are also possible;
  - **payout by commission**, to reward unique content authors;
- - **course navigation**, navigate through multiple posts from an author. On a domain basis or defined by the submitted ( https://github.com/NicoJuicy/Tagly/issues/33 );
+ - **course navigation**, navigate through multiple posts from an author. On a domain basis or defined by the submitted ( [#33](https://github.com/NicoJuicy/Tagly/issues/33) );
  - **url manipulation**, you can add a affliate url for amazon urls. Override it by default or only when it's absent;
  - **API for auto-submit**, eg. reading in newsletters;
  - **RSS subscription**, tags can be subscribed through RSS;

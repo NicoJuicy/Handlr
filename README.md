@@ -15,14 +15,14 @@ Issue tracker for a DMS web application, currently in private beta. ( DMS = Docu
  - **different roles**, admins have super powers;
  
 ## TODO
- - **Sticky**, Make posts a stick in general overview or in a tag. Make it extra visible ( admins only);
- - **payment options**, Unique content can be added to a paywall. On tag and post basis. Donations are also possible;
- - **payout by commission**, to reward unique content authors;
+ - **Sticky**, Make posts a stick in general overview or in a tag. Make it extra visible ( admins only) ( [#42](https://github.com/NicoJuicy/Tagly/issues/42) );
+ - **payment options**, Unique content can be added to a paywall. On tag and post basis. Donations are also possible ( [#32](https://github.com/NicoJuicy/Tagly/issues/32) ) ;
+ - **payout by commission**, to reward unique content authors ( [#41](https://github.com/NicoJuicy/Tagly/issues/41) );
  - **course navigation**, navigate through multiple posts from an author. On a domain basis or defined by the submitted ( [#33](https://github.com/NicoJuicy/Tagly/issues/33) );
- - **url manipulation**, you can add a affliate url for amazon urls. Override it by default or only when it's absent;
+ - **url manipulation**, you can add a affliate url for amazon urls. Override it by default or only when it's absent ( [#30](https://github.com/NicoJuicy/Tagly/issues/30));
+ - **RSS subscription**, tags can be subscribed through RSS ( [#12](https://github.com/NicoJuicy/Tagly/issues/12) );
+ - **ghosting**, hide some users if they are annonying / irrelevant ( [#43](https://github.com/NicoJuicy/Tagly/issues/43));
  - **API for auto-submit**, eg. reading in newsletters;
- - **RSS subscription**, tags can be subscribed through RSS;
- - **ghosting**, hide some users if they are annonying / irrelevant;
  - **customize layout**, make the site suited to your organisation / mission;
 
 Demo available on:  http://tagly.azurewebsites.net/

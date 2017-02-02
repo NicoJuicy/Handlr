@@ -24,7 +24,7 @@ Issue tracker for a DMS web application, currently in private beta. ( DMS = Docu
  - **ghosting**, hide some users if they are annonying / irrelevant ( [#43](https://github.com/NicoJuicy/Tagly/issues/43));
  - **API for auto-submit**, eg. reading in newsletters;
  - **customize layout**, make the site suited to your organisation / mission;
- - **newsletter**, auto generate a newsletter based on the content you submitted
+ - **newsletter**, auto generate a newsletter based on the content you submitted [#51](https://github.com/NicoJuicy/Tagly/issues/51) [#52](https://github.com/NicoJuicy/Tagly/issues/52) 
 
 Demo available on:  http://tagly.azurewebsites.net/
 

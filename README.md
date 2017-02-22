@@ -1,5 +1,5 @@
 # Tagly ( [demo](http://tagly.azurewebsites.net/) )
-Issue tracker for a DMS web application, currently in private beta. ( DMS = Document Management System)
+Issue tracker for a DMS web application, currently in private beta. ( DMS = Document Management System). It's based on Reddit, Hackernews with more advanced functionality
 
 ## Features 
 
@@ -15,6 +15,7 @@ Issue tracker for a DMS web application, currently in private beta. ( DMS = Docu
  - **different roles**, admins have super powers;
   - **url manipulation**, you can add a affliate url for amazon urls. Override it by default or only when it's absent ( [#30](https://github.com/NicoJuicy/Tagly/issues/30));
  - **RSS subscription**, tags can be subscribed through RSS ( [#12](https://github.com/NicoJuicy/Tagly/issues/12) );
+ - **Bookmarklet**, generate a new post by clicking on a link in your browser bookmarks ( adds title & url )
  
 ## TODO
  - **Sticky**, Make posts a stick in general overview or in a tag. Make it extra visible ( admins only) ( [#42](https://github.com/NicoJuicy/Tagly/issues/42) );

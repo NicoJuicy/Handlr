@@ -29,3 +29,8 @@ Issue tracker for a DMS web application, currently in private beta. ( DMS = Docu
 Demo available on:  http://tagly.azurewebsites.net/
 
 ![Interface screenshot](/tagly-screenshot.png)
+
+#Opensource projects created because of creating Tagly ;) :
+
+ - https://github.com/NicoJuicy/SendyAPI.dotnet
+ - https://github.com/NicoJuicy/WebsiteAsImageWebService 

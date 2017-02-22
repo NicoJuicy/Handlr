@@ -30,7 +30,7 @@ Demo available on:  http://tagly.azurewebsites.net/
 
 ![Interface screenshot](/tagly-screenshot.png)
 
-#Opensource projects created because of creating Tagly ;) :
+## Opensource projects, caused by Tagly's creation ;) :
 
- - https://github.com/NicoJuicy/SendyAPI.dotnet
- - https://github.com/NicoJuicy/WebsiteAsImageWebService 
+ - https://github.com/NicoJuicy/SendyAPI.dotnet ( a dot net core client for Sendy )
+ - https://github.com/NicoJuicy/WebsiteAsImageWebService ( a selfhosted service for generating thumnails from a website )

@@ -35,3 +35,4 @@ Demo available on:  http://tagly.azurewebsites.net/
 
  - https://github.com/NicoJuicy/SendyAPI.dotnet ( a dot net core client for Sendy )
  - https://github.com/NicoJuicy/WebsiteAsImageWebService ( a selfhosted nodejs service for generating thumnails from a website )
+-  https://github.com/NicoJuicy/WebsiteAsImageWebService.Api.Csharp/ ( API in c# dotnet core for grabbing the file )

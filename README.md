@@ -1,4 +1,4 @@
-# Tagly ( [demo](http://tagly.azurewebsites.net/) )
+# Handlr ( [demo](http://tagly.azurewebsites.net/) ) -- renamed from tagly
 Issue tracker for a DMS web application, currently in private beta. ( DMS = Document Management System). It's based on Reddit, Hackernews with more advanced functionality
 
 ## Features 
